@@ -1,0 +1,19 @@
+body {
+  padding: 1rem;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  color: #2d91f8;
+  padding: 0.25rem 0.5rem;
+  text-decoration: none;
+}
+
+img {
+  max-width: 50%;
+}
+li {
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
